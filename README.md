@@ -10,9 +10,9 @@ La tabla de contenidos es la siguiente:
 
 | Sesión | Fecha    | Grabación    | Cuaderno |
 | ------ | -------- | ------------ | -------- |
-| 1      | 19/10/20 | Próximamente | TBA      |
-| 2      | 20/10/20 | Próximamente | TBA      |
-| 3      | 21/10/20 | Próximamente | TBA      |
+| 1      | 19/10/20 | Próximamente | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-01.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 2      | 20/10/20 | Próximamente | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-02.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 3      | 21/10/20 | Próximamente | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-03.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | 4      | 22/10/20 | Próximamente | TBA      |
 
 
