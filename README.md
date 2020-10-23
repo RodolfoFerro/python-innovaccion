@@ -12,8 +12,8 @@ La tabla de contenidos es la siguiente:
 | ------ | -------- | ------------ | -------- |
 | 1      | 19/10/20 | [link](https://www.youtube.com/watch?v=ol5W9XEkiUQ) | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-01.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | 2      | 20/10/20 | [link](https://www.youtube.com/watch?v=VIZHuYefGm0) | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-02.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| 3      | 21/10/20 | Próximamente | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-03.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| 4      | 22/10/20 | Próximamente | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-04.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |
+| 3      | 21/10/20 | [link](https://www.youtube.com/watch?v=dFNb9Nr_xAc) | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-03.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 4      | 22/10/20 | [link](https://www.youtube.com/watch?v=RGfTxTvRrMY) | <a href="https://colab.research.google.com/github/RodolfoFerro/python-innovaccion/blob/main/sesiones/sesion-04.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |
 
 
 ## Ejecutando el código
