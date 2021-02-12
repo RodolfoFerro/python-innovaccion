@@ -24,3 +24,12 @@ La tabla de contenidos es la siguiente:
 Todos los cuadernos de código están dentro de la carpeta `sesiones/`, y para ejecutarlos, sólo debes abrir desde el navegador el cuaderno con el contenidod e la sesión que deseas ejecutar y darle click al botón "Abrir en Colab"; ello abrirá un entorno en la nube donde podrás ejecutar tu código sin problema alguno.
 
 También puedes abrir los contenidos directamente desde el botón correspondiente en la tabla de contenidos.
+
+## Contribuye
+
+**¿Encontraste una mejora que se puede implementar o te gustaría solicitar un cambio?** Puedes abrir un [Issue](https://github.com/RodolfoFerro/python-innovaccion/issues) solicitando el cambio o enviar directamente un [Pull Request](https://github.com/RodolfoFerro/python-innovaccion/pulls) con tu cambio.
+
+Para cualquier duda o aclaración, puedes contactar al Sherpa [Rodo](https://github.com/RodolfoFerro):
+* Email: [rferro@innovaccion.mx](rferro@innovaccion.mx)
+* Twitter: [@FerroRodolfo](https://twitter.com/FerroRodolfo)
+* Instagram: [@rodo_ferro](https://instagram.com/rodo_ferro)
