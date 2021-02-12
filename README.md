@@ -1,3 +1,6 @@
+![](https://github.com/innovaccion-virtual/onboarding-github-innovaccion/blob/master/images/IVCE.png)
+
+
 # Intro a programación con Python :snake:
 
 ¡Bienvenidas y bienvenidos! En este repositorio encontrarán los contenidos de programación con Python para el curso de introducción a Python, que con cariño se comparte a toda la comunidad del programa de **Innovacción Virtual**, por parte de Microsoft México.
