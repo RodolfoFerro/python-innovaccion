@@ -31,5 +31,5 @@ También puedes abrir los contenidos directamente desde el botón correspondient
 
 Para cualquier duda o aclaración, puedes contactar al Sherpa [Rodo](https://github.com/RodolfoFerro):
 * Email: [rferro@innovaccion.mx](rferro@innovaccion.mx)
-* Twitter: [@FerroRodolfo](https://twitter.com/FerroRodolfo)
+* Twitter: [@rodo_ferro](https://twitter.com/rodo_ferro)
 * Instagram: [@rodo_ferro](https://instagram.com/rodo_ferro)
